@@ -111,7 +111,7 @@ body {
 #pocetna {
   text-align: center;
   color: #fff;
-  background-image: url(./assets/img/pozadine/background_img_06.jpg);
+  background-image: url(assets/img/pozadine/background_img_06.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -189,7 +189,7 @@ body {
 /* PAGE 3 - Usluge */
 /******************************/
 #usluge {
-  background-image: url(./assets/img/pozadine/background_img_08.jpg);
+  background-image: url(assets/img/pozadine/background_img_08.jpg);
   background-size: cover;
   background-attachment: fixed;
 
@@ -332,7 +332,7 @@ body {
 /* PAGE 5 - Karijera */
 /******************************/
 #karijera {
-  background-image: url(./assets/img/pozadine/background_img_03.jpg);
+  background-image: url(assets/img/pozadine/background_img_03.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
